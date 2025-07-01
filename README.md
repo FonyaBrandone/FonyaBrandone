@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am  a Software Engineer, currently pursuing a Masters degree in Artificial Intelligence at Carnegie Mellon University<br>I am into Software based innovations, applied AI and Robotics research. I love coding new innovative ideas!<br>  
+I am  a Software Engineer and a graduate research assistant, currently pursuing a Masters degree in Artificial Intelligence at Carnegie Mellon University<br>I am into tech innovations, machine learning and computer vision research. I love coding new innovative ideas!<br>  
 
 ## 📄 Resume
 Yes! you can download my resume. Let me know if you need more information. 
