@@ -4,7 +4,7 @@ I am  a Software Engineer, currently pursuing a Masters degree in Artificial Int
 ## 📄 Resume
 Yes! you can download my resume. Let me know if you need more information. 
 
-<a href="https://github.com/user-attachments/files/19840308/Brandone.Fonya.Resume.Research.pdf" download>
+<a href="https://github.com/user-attachments/files/20999148/Brandone.Fonya.CV.-.Summer.2025.pdf" download>
   <img alt="Download Resume" src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=red" />
 </a>
 
