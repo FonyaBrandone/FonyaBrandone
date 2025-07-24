@@ -4,8 +4,9 @@ I am  a Software Engineer and a graduate research assistant, currently pursuing 
 ## 📄 Resume
 Yes! you can download my resume. Let me know if you need more information. 
 
-<a href="https://github.com/user-attachments/files/20999148/Brandone.Fonya.CV.-.Summer.2025.pdf" download>
+<a href="https://github.com/user-attachments/files/21410206/Brandone.Fonya.CV.-.Summer.2025.pdf" download>
   <img alt="Download Resume" src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=red" />
+
 </a>
 
 
