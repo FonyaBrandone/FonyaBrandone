@@ -1,10 +1,10 @@
-# 💫 About Me:
-I am  a Software Engineer and a graduate research assistant, currently pursuing a Masters degree in Artificial Intelligence at Carnegie Mellon University<br>I am into tech innovations, machine learning and computer vision research. I love coding new innovative ideas!<br>  
+[Brandone Fonya CV - Spring 2026.pdf](https://github.com/user-attachments/files/24805989/Brandone.Fonya.CV.-.Spring.2026.pdf)# 💫 About Me:
+I am  an AI Engineer, graduate research & teaching assistant, currently pursuing a Masters degree in Engineering and Artificial Intelligence at Carnegie Mellon University<br>I am into tech innovations, machine learning and computer vision research. I love coding new innovative ideas!<br>  
 
 ## 📄 Resume
 Yes! you can download my resume. Let me know if you need more information. 
 
-<a href="https://github.com/user-attachments/files/21410206/Brandone.Fonya.CV.-.Summer.2025.pdf" download>
+<a href="https://github.com/user-attachments/files/24805993/Brandone.Fonya.CV.-.Spring.2026.pdf" download>
   <img alt="Download Resume" src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=red" />
 
 </a>
