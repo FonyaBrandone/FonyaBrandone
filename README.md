@@ -1,4 +1,4 @@
-[Brandone Fonya CV - Spring 2026.pdf](https://github.com/user-attachments/files/24805989/Brandone.Fonya.CV.-.Spring.2026.pdf)# 💫 About Me:
+💫 About Me:
 I am  an AI Engineer, graduate research & teaching assistant, currently pursuing a Masters degree in Engineering and Artificial Intelligence at Carnegie Mellon University<br>I am into tech innovations, machine learning and computer vision research. I love coding new innovative ideas!<br>  
 
 ## 📄 Resume
